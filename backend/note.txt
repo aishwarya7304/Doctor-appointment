@@ -1,0 +1,32 @@
+npm i express mongoose multer bcrypt cloudinary cors dotenv jsonwebtoken nodemon validator
+
+
+cors - connect backend to frontend
+
+
+image to database 64 resource
+
+//config part
+
+connect to mongoDb atlas  
+connect to cloudinary
+
+//models
+create data models in database (eg doctor, user) //mention the schema first
+
+//controller
+now creating apis to add data
+
+//routes
+adding methods which connect the api and server
+
+//postman
+test api
+
+// token is provided in the header of the next function
+
+multer is a middleware for handling multipart/form-data, primarily used for uploading files in a Node.js application.
+
+
+stringfy the object
+

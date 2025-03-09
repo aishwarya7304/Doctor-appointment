@@ -1,0 +1,7 @@
+active ClassName
+
+AppContextProvider is a functional component that acts as the provider for the context.
+The value object contains the data (in this case, doctors) that you want to share across components.
+props.children allows you to render any child components wrapped inside AppContextProvider
+
+See applyfilter function of doctor.jsx
