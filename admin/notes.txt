@@ -1,0 +1,1 @@
+when u use an image added by the client in the form for use  URl.createObjectURL(img)
