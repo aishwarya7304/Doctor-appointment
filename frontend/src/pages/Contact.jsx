@@ -8,7 +8,7 @@ const Contact = () => {
       <div>
         <div className="text-center text-2xl pt-10 text-[#707070]">
           <p>
-            CONTACT <span className="text-gray-700 font-semibold">US</span>
+            CONTACT <span className="text-gray-700 font-semibold">INDIA</span>
           </p>
         </div>
         <div className="my-10 flex flex-col justify-center md:flex-row gap-10 mb-28 text-sm">
@@ -20,10 +20,10 @@ const Contact = () => {
           <div className="flex flex-col justify-center items-start gap-6">
             <p className="font-semibold text-lg text-gray-600">OUR OFFICE</p>
             <p className="text-gray-500">
-              00000 Willms Station <br /> Suite 000, Washington, USA
+              312 <br /> Laxmi Road, Pune-411015,Maharashtra.
             </p>
             <p className="text-gray-500">
-              Tel: (000) 000-0000 <br /> Email: greatstackdev@gmail.com
+              Tel: (000) 000-0000 <br /> Email: apatil7304@gmail.com
             </p>
             <p className="font-semibold text-lg text-gray-600">CAREERS AT PRESCRIPTO</p>
             <p className="text-gray-500">
