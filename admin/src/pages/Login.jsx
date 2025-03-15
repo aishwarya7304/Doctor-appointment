@@ -72,7 +72,7 @@ const Login = () => {
 
         {/* <!-- Login Button --> */}
         <button type="submit" 
-          className="bg-primary text-white w-full py-2 rounded-md text-base cursor-pointer">
+          className="bg-black text-white w-full py-2 rounded-md text-base cursor-pointer">
           Login
         </button>
 
