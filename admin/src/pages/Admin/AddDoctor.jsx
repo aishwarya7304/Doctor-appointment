@@ -160,7 +160,7 @@ const AddDoctor = () => {
         </div>
 
         {/* <!-- Submit Button --> */}
-        <button type="submit" className="bg-primary px-10 py-3 mt-4 text-white rounded-full">
+        <button type="submit" className="bg-black px-10 py-3 mt-4 text-white rounded-full">
           Add doctor
         </button>
       </div>

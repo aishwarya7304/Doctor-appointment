@@ -29,7 +29,7 @@ const Navbar = () => {
    </div>
    
    {/* <!-- Right Section: Logout Button --> */}
-   <button onClick={logout} className ="bg-primary text-white text-sm px-10 py-2 rounded-full cursor-pointer">
+   <button onClick={logout} className ="bg-black text-white text-sm px-10 py-2 rounded-full cursor-pointer">
      Logout
    </button>
  </div>

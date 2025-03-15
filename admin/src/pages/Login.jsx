@@ -45,7 +45,7 @@ const Login = () => {
       <div className="flex flex-col gap-3 m-auto items-start p-8 min-w-[340px] sm:min-w-96 border rounded-xl text-[#5E5E5E] text-sm shadow-lg">
         {/* <!-- Admin Login Heading --> */}
         <p className="text-2xl font-semibold m-auto">
-          <span className="text-primary">{state}</span> Login
+          <span className="text-black">{state}</span> Login
         </p>
 
         {/* <!-- Email Input --> */}
@@ -77,15 +77,7 @@ const Login = () => {
         </button>
 
         {/* <!-- Alternate Login Option --> */}
-        {state === 'Admin' ?
-          <p>
-            Doctor Login?
-            <span onClick={() => setState('Doctor')} className="text-primary underline cursor-pointer">Click here</span>
-          </p> :
-          <p>
-            Admin Login?
-            <span onClick={() => setState('Admin')} className="text-primary underline cursor-pointer">Click here</span>
-          </p>}
+
       </div>
     </form>
 
